@@ -1,3 +1,3 @@
 # hello-world
 testing
-print("Hello world")
+print("Hello world");
